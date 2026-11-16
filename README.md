@@ -45,6 +45,14 @@ Chaque appel est **enregistré automatiquement dans une base Notion** (date, sym
 | Interface | Tally (no code) | 43 pages, ~80 règles de logique conditionnelle |
 | Traçabilité | Intégration native Tally → Notion | Une ligne par appel |
 
+### Traçabilité : chaque appel devient une ligne dans Notion
+
+![Base Notion « Appels SAV » avec deux appels de test](notion-appels.png)
+
+Le parcours complet de l'appel est enregistré dans la page de chaque ligne :
+
+![Contenu d'une ligne : questions et réponses de l'appel](notion-connexion.png)
+
 **Le contenu est séparé de l'outil.** L'arbre est décrit dans un fichier texte versionné : ajouter un appareil, c'est d'abord ajouter un fichier, que vos technicien·nes peuvent relire sans toucher à Tally.
 
 ## Choix de conception : où ne pas mettre l'IA
